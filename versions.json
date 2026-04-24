@@ -1,0 +1,12 @@
+{
+    "services": {
+        "tg-v5": {
+            "latest_version": "5.2.1",
+            "last_updated": "2026-04-24"
+        },
+        "laggo_sender_v2": {
+            "latest_version": "1.1.0",
+            "last_updated": "2026-04-22"
+        }
+    }
+}
