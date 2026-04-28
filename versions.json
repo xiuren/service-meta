@@ -7,6 +7,10 @@
         "laggo_sender_v2": {
             "latest_version": "1.1.0",
             "last_updated": "2026-04-22"
+        },
+        "cn_dict": {
+            "latest_version": "1",
+            "last_updated": "2026-04-28"
         }
     }
 }
